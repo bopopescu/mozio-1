@@ -1,0 +1,3 @@
+from .helper_test import ServiceAreaViewHelperTestCase
+from .provider_view_test import ProviderViewTestCase
+from .service_area_view_test import ServiceAreaViewTestCase

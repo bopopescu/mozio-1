@@ -1,0 +1,2 @@
+from .provider_test import ProviderModelTestCase
+from .service_area_test import ServiceAreaModelTestCase
